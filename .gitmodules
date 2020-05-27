@@ -1,3 +1,15 @@
 [submodule "pack/packages/start/nerdtree"]
 	path = pack/packages/start/nerdtree
 	url = https://github.com/preservim/nerdtree
+[submodule "pack/packages/start/vim-gitgutter"]
+	path = pack/packages/start/vim-gitgutter
+	url = https://github.com/airblade/vim-gitgutter
+[submodule "pack/packages/start/lightline"]
+	path = pack/packages/start/lightline
+	url = https://github.com/itchyny/lightline.vim
+[submodule "pack/packages/start/nerdcommenter"]
+	path = pack/packages/start/nerdcommenter
+	url = https://github.com/preservim/nerdcommenter
+[submodule "pack/packages/start/youcompleteme"]
+	path = pack/packages/start/youcompleteme
+	url = https://github.com/ycm-core/YouCompleteMe

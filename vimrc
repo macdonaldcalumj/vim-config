@@ -35,3 +35,18 @@ nnoremap <C-H> <C-W><C-H>
 set splitright
 set splitbelow
 
+""""""""""""""""""""""""
+" Plugins
+""""""""""""""""""""""""
+
+" GitGutter
+set updatetime=100
+highlight! link SignColumn LineNr
+highlight GitGutterAdd    guifg=#009900 ctermfg=2
+highlight GitGutterChange guifg=#bbbb00 ctermfg=3
+highlight GitGutterDelete guifg=#ff2222 ctermfg=1
+
+" Lightline
+set laststatus=2
+set noshowmode
+
