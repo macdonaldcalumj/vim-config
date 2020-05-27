@@ -1,4 +1,4 @@
-# Vim Configs
+# Vim Config
 
 ## Installation
 - Clone repository to somewhere (~/.vim)
