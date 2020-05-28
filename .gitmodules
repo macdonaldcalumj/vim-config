@@ -13,3 +13,6 @@
 [submodule "pack/packages/start/youcompleteme"]
 	path = pack/packages/start/youcompleteme
 	url = https://github.com/ycm-core/YouCompleteMe
+[submodule "pack/packages/start/vim-colorschemes"]
+	path = pack/packages/start/vim-colorschemes
+	url = https://github.com/flazz/vim-colorschemes
