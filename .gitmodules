@@ -22,3 +22,6 @@
 [submodule "pack/packages/start/editorconfig-vim"]
 	path = pack/packages/start/editorconfig-vim
 	url = https://github.com/editorconfig/editorconfig-vim
+[submodule "pack/packages/start/vim-vue"]
+	path = pack/packages/start/vim-vue
+	url = https://github.com/posva/vim-vue
